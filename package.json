@@ -1,0 +1,31 @@
+{
+  "name": "tarot-card-meanings",
+  "version": "1.0.0",
+  "description": "Complete 78 tarot card meanings database. Upright, reversed, love, career, and yes or no interpretations for all Major and Minor Arcana cards.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "tarot",
+    "tarot cards",
+    "tarot card meanings",
+    "oracle cards",
+    "divination",
+    "tarot reading",
+    "yes or no tarot",
+    "major arcana",
+    "minor arcana",
+    "tarot deck",
+    "spiritual",
+    "fortune telling"
+  ],
+  "author": "Deckaura <gokimedia@hotmail.com.tr> (https://deckaura.com)",
+  "license": "MIT",
+  "homepage": "https://deckaura.com/blogs/guide/tarot-card-meanings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokimedia/tarot-card-meanings"
+  },
+  "bugs": {
+    "url": "https://github.com/gokimedia/tarot-card-meanings/issues"
+  }
+}
