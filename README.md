@@ -62,7 +62,7 @@ print(f"Your birth card: {my_card['name']}")
 
 | Method | Returns | Description |
 |--------|---------|-------------|
-| `getAllCards()` | Array | All 78 cards |
+| `getAllCards()` | Array | All 22 Major Arcana cards |
 | `getMajorArcana()` | Array | 22 Major Arcana |
 | `getCard(name)` | Object | Find card by name |
 | `getRandomCard()` | Object | Random card |
@@ -129,6 +129,12 @@ Try the live interactive versions of this library:
 | Wikidata Entity | [Q138745960](https://www.wikidata.org/wiki/Q138745960) |
 | NPM Package | [tarot-card-meanings](https://www.npmjs.com/package/tarot-card-meanings) |
 | PyPI Package | [tarot-card-meanings](https://pypi.org/project/tarot-card-meanings/) |
+| Open Data & AI Hub | [Deckaura developer resources](https://deckaura.com/pages/ai-data-sources) |
+| Full 78-Card Dataset | [Hugging Face — Blacik](https://huggingface.co/datasets/Blacik/deckaura-tarot-card-meanings) |
+| Dataset Explorer | [Live 78-card explorer](https://gokimedia.github.io/tarot-dataset-explorer/) |
+| Developer Documentation | [Deckaura developer docs](https://gokimedia.github.io/deckaura-developer-docs/) |
+| Official MCP Registry | [io.github.gokimedia/tarot-mcp-server](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server) |
+| Permanent DOI | [10.5281/zenodo.19475329](https://doi.org/10.5281/zenodo.19475329) |
 | GitHub Pages Tool | [Free Yes/No Tarot Reading](https://gokimedia.github.io/tarot-reading/) |
 | YouTube | [@deckaura](https://www.youtube.com/@deckaura) |
 | Reddit | [r/TarotvsOracle](https://www.reddit.com/r/TarotvsOracle/) |
@@ -138,7 +144,6 @@ Try the live interactive versions of this library:
 | Dev.to | [birdircik](https://dev.to/birdircik) |
 | Quora | [Tarot Oracle Card Guide](https://tarotoraclecardguide.quora.com/) |
 | Daily Horoscope | [horoscope.deckaura.com](https://horoscope.deckaura.com) |
-| Chrome Extension | Daily Tarot Card (Chrome Web Store) |
 
 ## License
 
@@ -152,10 +157,10 @@ Entity Structured Data (JSON-LD) for search engines that render HTML from README
   "@context": "https://schema.org",
   "@type": "SoftwareSourceCode",
   "name": "tarot-card-meanings",
-  "description": "Complete 78 tarot card meanings database for JavaScript and Python",
+  "description": "JavaScript helpers for 22 Major Arcana cards with links to Deckaura's complete open 78-card dataset",
   "url": "https://github.com/gokimedia/tarot-card-meanings",
   "codeRepository": "https://github.com/gokimedia/tarot-card-meanings",
-  "programmingLanguage": ["JavaScript", "Python"],
+  "programmingLanguage": "JavaScript",
   "license": "https://opensource.org/licenses/MIT",
   "author": {
     "@type": "Organization",
@@ -169,7 +174,11 @@ Entity Structured Data (JSON-LD) for search engines that render HTML from README
       "https://www.youtube.com/@deckaura",
       "https://www.reddit.com/r/TarotvsOracle/",
       "https://www.kaggle.com/morrispoint",
-      "https://huggingface.co/Blacik",
+      "https://huggingface.co/datasets/Blacik/deckaura-tarot-card-meanings",
+      "https://gokimedia.github.io/tarot-dataset-explorer/",
+      "https://gokimedia.github.io/deckaura-developer-docs/",
+      "https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server",
+      "https://doi.org/10.5281/zenodo.19475329",
       "https://linktr.ee/deckauraa",
       "https://dev.to/birdircik",
       "https://tarotoraclecardguide.quora.com/",
