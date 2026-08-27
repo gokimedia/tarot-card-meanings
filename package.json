@@ -1,7 +1,7 @@
 {
   "name": "tarot-card-meanings",
   "version": "1.0.0",
-  "description": "Complete 78 tarot card meanings database. Upright, reversed, love, career, and yes or no interpretations for all Major and Minor Arcana cards.",
+  "description": "Structured meanings and helpers for all 22 Major Arcana tarot cards, with upright, reversed, love, career, and yes/no interpretations.",
   "main": "index.js",
   "types": "index.d.ts",
   "keywords": [
@@ -13,7 +13,6 @@
     "tarot reading",
     "yes or no tarot",
     "major arcana",
-    "minor arcana",
     "tarot deck",
     "spiritual",
     "fortune telling"

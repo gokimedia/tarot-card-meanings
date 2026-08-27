@@ -1,6 +1,6 @@
 /**
  * tarot-card-meanings
- * Complete 78 tarot card meanings database
+ * Structured meanings and helpers for all 22 Major Arcana cards
  * By Deckaura - https://deckaura.com
  */
 
@@ -33,7 +33,7 @@ const suits = ["Wands", "Cups", "Swords", "Pentacles"];
 const elements = { Wands: "Fire", Cups: "Water", Swords: "Air", Pentacles: "Earth" };
 
 /**
- * Get all 78 tarot cards
+ * Get all cards included in this package (22 Major Arcana cards).
  * @returns {Array} Array of all tarot card objects
  */
 function getAllCards() {

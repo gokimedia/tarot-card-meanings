@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q138745960-blue.svg)](https://www.wikidata.org/wiki/Q138745960)
 
-Complete 78 tarot card meanings database available for **JavaScript/Node.js** and **Python**. Includes upright, reversed, love, career, and yes/no interpretations for all 22 Major Arcana and 56 Minor Arcana cards.
+Structured tarot meanings for **JavaScript/Node.js**. Includes upright, reversed, love, career, and yes/no interpretations for all 22 Major Arcana cards.
 
 **Created by [Deckaura](https://deckaura.com)** -- the online destination for tarot card decks, oracle cards, and free divination tools.
 
