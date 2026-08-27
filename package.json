@@ -22,7 +22,7 @@
   "homepage": "https://deckaura.com/blogs/guide/tarot-card-meanings",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gokimedia/tarot-card-meanings"
+    "url": "git+https://github.com/gokimedia/tarot-card-meanings.git"
   },
   "bugs": {
     "url": "https://github.com/gokimedia/tarot-card-meanings/issues"
