@@ -1,6 +1,6 @@
 {
   "name": "tarot-card-meanings",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Structured meanings and helpers for all 22 Major Arcana tarot cards, with upright, reversed, love, career, and yes/no interpretations.",
   "main": "index.js",
   "types": "index.d.ts",
